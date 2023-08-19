@@ -52,32 +52,35 @@ Patients were excluded if they received more than one COVID-19 treatment (sotrov
 
 
 ## Requirements
-The work was done using:
-Python 3.9.5	
-	Packages:
-	* Numpy	1.21
-	* Pandas 1.3.4
+The work was done using:<br> 
+Python 3.9.5	<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	Packages:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Numpy	1.21<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Pandas 1.3.4<br> 
 
-R version 4.2.1	
-	Packages:
-	* Cobalt 4.4.1
-	* PowerSurvEpi 0.1.3
-	* Stats 4.2.1
-	* Stringr 1.4.1
-	* Survey 4.1-1
-	* Survival 3.3-1
-	* Survminer 0.4.9
-	* Twang	2.5
-	* Xtable 1.8-4
-	* WeightIt 0.13.1
+R version 4.2.1	<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	Packages:<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Cobalt 4.4.1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* PowerSurvEpi 0.1.3<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Stats 4.2.1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Stringr 1.4.1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Survey 4.1-1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Survival 3.3-1<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Survminer 0.4.9<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Twang	2.5<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* Xtable 1.8-4<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   	* WeightIt 0.13.1<br> 
 
 
 ## Publication 
-The current version of the manuscript in pre-print form is availbale at 
+\*Drysdale, M., \*Galimov, E.R., Yarwood, M.J., Patel, V., Levick, B., Gibbons, D.C., Watkins, J.D., Young, S., Pierce, B.F., Lloyd, E.J. and Kerr, W., 2023. Comparative effectiveness of sotrovimab versus no treatment in non-hospitalised high-risk patients with COVID-19 in North West London: a retrospective cohort study using the Discover dataset. medRxiv, pp.2023-07    \* - co-first authors 
+
+The current version of the manuscript in pre-print form is availbale at https://www.medrxiv.org/content/10.1101/2023.07.26.23293188v1 
 
  
 ## Authors
-- Evgeniy Galimov |   e.r.galimov@gmail.com   |  https://www.linkedin.com/in/evgeniygalimov
+- Evgeniy Galimov |   e.r.galimov@gmail.com   |  https://www.linkedin.com/in/evgeniygalimov  <br> 
+performed inverse probability of treatment weighted survival analysis, interpreted results, took part in drafting, revising or critically reviewing the manuscript
 
 
 ## License
